@@ -10,6 +10,6 @@ public class Greens {
 	public static void main(String[] args) {
 		Greens c = new Greens();
 		c.java();
-		c.oracle();
+		
 	}
 }
